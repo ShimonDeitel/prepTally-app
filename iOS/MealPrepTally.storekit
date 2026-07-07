@@ -1,0 +1,29 @@
+{
+  "identifier" : "prepTally",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "prepTally_pro",
+      "localizations" : [
+        {
+          "description" : "Weekly portion analytics and container-count tracking",
+          "displayName" : "Meal Prep Tally Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.mealprep.pro",
+      "referenceName" : "Meal Prep Tally Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
